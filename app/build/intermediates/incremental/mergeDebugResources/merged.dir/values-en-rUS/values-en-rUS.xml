@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="EQ_size">14sp</dimen>
+    <string name="am">AM</string>
+    <string name="amsign">KHz</string>
+    <string name="app_name">Radio</string>
+    <string name="btn_bar_aux">AUX</string>
+    <string name="btn_bar_btmusic">BT Music</string>
+    <string name="btn_bar_ipod">IPOD</string>
+    <string name="btn_bar_radio">Radio</string>
+    <string name="btn_bar_usb">USB Music</string>
+    <string name="btn_eq_film_string">CINEMA</string>
+    <string name="btn_eq_music_string">MUSICHALL</string>
+    <string name="btn_eq_normal_string">STANDARD</string>
+    <string name="btn_search_string">Search</string>
+    <string name="btn_seek_string">Scale</string>
+    <string name="cancle">Cancle</string>
+    <string name="canclecollect">Cancel the collection complete</string>
+    <string name="collect">Collection of success</string>
+    <string name="ensure">Ensure</string>
+    <string name="ensuredelete">Please confirm whether delete the channel？</string>
+    <string name="fm">FM</string>
+    <string name="fmsign">MHz</string>
+    <string name="initchann">Channel initializing, please wait…</string>
+    <string name="initfreq">102.3</string>
+    <string name="listdialognone">No collection channel</string>
+    <string name="nochennel">No radio station records</string>
+    <string name="not_in_range">channel not in searching range</string>
+    <string name="singlesave0">Has been successfully save</string>
+    <string name="singlesave1">Please try again later</string>
+    <string name="singlesave2">This channel has been saved</string>
+</resources>

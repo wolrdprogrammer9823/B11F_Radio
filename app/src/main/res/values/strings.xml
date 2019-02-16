@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="btn_seek_string">刻度</string>
+    <string name="btn_search_string">搜存</string>
+    <string name="btn_eq_music_string">音乐厅</string>
+    <string name="btn_eq_film_string">电影院</string>
+    <string name="btn_eq_normal_string">标&#160;&#160;&#160;&#160;准</string>
+    <string name="btn_bar_radio">收音机</string>
+    <string name="btn_bar_btmusic">蓝牙音乐</string>
+    <string name="btn_bar_ipod">IPOD</string>
+    <string name="btn_bar_usb">U盘音乐</string>
+    <string name="btn_bar_aux">AUX</string>
+	<string name="app_name">收音机</string>
+    <string name="collect">收藏成功</string>
+    <string name="canclecollect">取消收藏</string>
+    <string name="fm">FM</string>
+    <string name="am">AM</string>
+    <string name="initfreq">102.3</string>
+    <string name="amsign">KHz</string>
+    <string name="fmsign">MHz</string>
+    <string name="ensure">确定</string>
+    <string name="cancle">取消</string>
+    <string name="nochennel">没有电台记录</string>
+  	<string name="ensuredelete">请确认是否移除频道？</string>
+    <string name="initchann">正在搜索频道，请稍等&#8230;</string>
+    <string name="listdialognone">无收藏频道</string>
+    <string name="not_in_range">该频道不在当前搜索范围</string>
+     
+    <string name="singlesave0">已成功存台</string>
+    <string name="singlesave1">还在为您保存上一个，请稍等</string>
+    <string name="singlesave2">这个台已经存过了</string>
+</resources>

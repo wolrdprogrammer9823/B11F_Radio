@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>   
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fcf="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/radiomain_layout"
+    android:layout_width="926dp"
+    android:layout_height="match_parent">
+  
+    <LinearLayout
+        android:id="@+id/fancyCoverFlow_layout"
+        android:layout_width="785dp"
+        android:layout_height="285dp"
+        android:layout_marginTop="35dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"> 
+      
+        <com.hwatong.radio.defineview.FancyCoverFlow
+            android:id="@+id/fancyCoverFlow"
+            android:layout_width="730dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:spacing="0dp"
+            fcf:maxRotation="0"
+            fcf:scaleDownGravity="0.95"
+            fcf:unselectedAlpha="0.8"
+            fcf:unselectedSaturation="1"
+            fcf:unselectedScale="0.75"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/no_chennel"
+        android:layout_width="819dp"
+        android:layout_height="322dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:text="@string/nochennel"
+        android:textSize="24sp"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/bg_gallerybg"
+        android:layout_width="819dp"
+        android:layout_height="15dp"
+        android:layout_marginTop="2dp"
+        android:layout_below="@id/fancyCoverFlow_layout"
+        android:contentDescription="@null"
+        android:src="@drawable/bg_gallerybg_radio"/>
+    
+    <!-- 
+                 右边下部分  点击弹出收藏电台列表弹窗
+     -->
+    <ImageView
+        android:id="@+id/btn_list"
+        android:layout_width="100dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="45dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:contentDescription="@null"
+        android:src="@drawable/btn_lists_radio"/>
+    
+    <!-- 右上部分 FM\AM的切换与开和关 -->
+    <LinearLayout
+        android:id="@+id/ll_fmamonoff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp">
+        
+       <com.hwatong.radio.defineview.FontButton
+           android:id="@+id/btn_fmam"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:background="@drawable/fmam_btn_selector"
+           style="?android:attr/buttonBarButtonStyle"
+           android:text="@string/fm"
+           android:textColor="@color/btn_mainbar_colorselector"
+           android:textSize="20sp"/>
+       
+       <Button
+           android:id="@+id/fmam_btn_onoff"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="15dp"
+           style="?android:attr/buttonBarButtonStyle"
+           android:background="@drawable/fmam_btn_on"/>
+       
+    </LinearLayout>
+    
+    <!-- 阴影背景 覆盖整个界面 -->
+    <ImageView
+        android:id="@+id/bg_shadow"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:contentDescription="@null"
+        android:background="@drawable/bg_shadow2"
+        android:visibility="gone"/>
+        
+    <!--右边中间部分  音乐厅\电影院\标准 -->
+    <LinearLayout
+        android:id="@+id/layout_eq"
+        android:layout_width="100dp"
+        android:layout_height="190dp"
+        android:layout_alignParentRight="true"
+		android:layout_centerVertical="true"
+        android:background="@drawable/bg_eqbtn_radio"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_eq_music"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:text="@string/btn_eq_music_string"
+            android:textColor="@color/btn_mainbar_colorselector"
+            android:textSize="@dimen/EQ_size"/>
+
+        <Button
+            android:id="@+id/btn_eq_film"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:text="@string/btn_eq_film_string"
+            android:textColor="@color/btn_mainbar_colorselector"
+            android:textSize="@dimen/EQ_size"/>
+
+        <Button
+            android:id="@+id/btn_eq_normal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:text="@string/btn_eq_normal_string"
+            android:textColor="@color/btn_mainbar_colorselector"
+            android:textSize="@dimen/EQ_size"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/bottombar_layout"
+        android:layout_width="819dp"
+        android:layout_height="match_parent"
+        android:layout_below="@id/bg_gallerybg">
+
+       <RelativeLayout
+            android:id="@+id/curchannel_layout"
+            android:layout_width="247dp"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:background="@drawable/bg_curchannel_radio" >
+            
+         <!--   <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"> -->
+
+                <com.hwatong.radio.defineview.FontTextView
+                    android:id="@+id/text_curfreq"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:gravity="center"
+                    android:text="@string/initfreq"
+                    android:textColor="@color/text_light"
+                    android:textSize="40sp"/>
+
+               <com.hwatong.radio.defineview.FontTextView
+                    android:id="@+id/text_mhz"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/text_curfreq"
+                    android:layout_alignBottom="@+id/text_curfreq"
+                    android:layout_toRightOf="@+id/text_curfreq"
+                    android:text="@string/fmsign"
+                    android:textColor="@color/text_light"
+                    android:textSize="16sp"/>
+
+                <com.hwatong.radio.defineview.FontTextView
+                    android:id="@+id/text_fm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/text_mhz"
+                    android:layout_alignLeft="@+id/text_mhz"
+                    android:layout_marginBottom="3dp"
+                    android:text="@string/fm"
+                    android:textColor="@color/text_light"
+                    android:textSize="16sp"/>
+            <!-- </RelativeLayout> -->
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/bg_shadow2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:contentDescription="@null"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/btn_pre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="56dp"
+            android:layout_toLeftOf="@+id/curchannel_layout"
+            android:contentDescription="@null"
+            android:background="@drawable/btn_last"/>
+
+        <ImageView
+            android:id="@+id/btn_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="58dp"
+            android:layout_toRightOf="@+id/curchannel_layout"
+            android:contentDescription="@null"
+            android:background="@drawable/btn_next"/>
+
+        <FrameLayout 
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_centerVertical="true"
+           android:layout_toLeftOf="@+id/btn_pre">
+            
+           <TextView
+              android:id="@+id/text_seek"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:drawableTop="@drawable/btn_seek_radio"
+              android:layout_gravity="center"
+              android:textSize="13sp"
+              android:textColor="@color/text"
+              android:text="@string/btn_seek_string"/>
+        </FrameLayout>
+        
+        <FrameLayout 
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_centerVertical="true"
+           android:layout_toRightOf="@+id/btn_next">
+        
+            <TextView
+               android:id="@+id/text_search"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:drawableTop="@drawable/btn_search_radio"
+               android:layout_gravity="center"
+               android:textSize="13sp"
+               android:textColor="@color/text"
+               android:text="@string/btn_search_string"/>
+        </FrameLayout>
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/seekbarpw_layout"
+        android:layout_width="774dp"
+        android:layout_height="102dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="27dp"
+        android:background="@drawable/bg_seekbarbg_radio_fm"
+        android:visibility="gone" >
+
+        <SeekBar
+            android:id="@+id/seekbarpw_seekBar"
+            android:layout_width="668dp"
+            android:layout_height="102dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@null"
+            android:max="50"
+            android:progress="50"
+            android:progressDrawable="@null"
+            android:thumb="@drawable/thum_radio"
+            android:thumbOffset="0dp" />
+    </RelativeLayout>
+</RelativeLayout>

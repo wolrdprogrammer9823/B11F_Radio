@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="525dp"
+    android:layout_height="225dp"
+    android:background="@drawable/dialog_bg2"
+    android:orientation="vertical">
+    
+    <TextView
+       android:id="@+id/deletedialog_text"
+       android:layout_width="match_parent"
+       android:layout_height="0dp"
+       android:layout_weight="1"
+       android:gravity="center|bottom"
+       android:layout_marginBottom="20dp"
+       android:text="@string/ensuredelete"
+       android:textColor="@color/white"
+       android:textSize="23sp"/>
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+        
+        <Button
+           android:id="@+id/delete_sure"
+           android:layout_width="160dp"
+           android:layout_height="40dp"
+           android:layout_alignParentLeft="true"
+           android:layout_marginLeft="30dp"
+           android:background="@drawable/dialog_btn_selector"
+           android:text="@string/ensure"
+           android:textColor="@color/dialog_btn_textcolor"
+           android:textSize="18sp"/>
+        
+        <Button
+           android:id="@+id/delete_cancle"
+           android:layout_width="160dp"
+           android:layout_height="40dp"
+           android:layout_alignParentRight="true"
+           android:layout_marginRight="30dp"
+           android:background="@drawable/dialog_btn_selector2"
+           android:text="@string/cancle"
+           android:textColor="@color/dialog_btn_textcolor"
+           android:textSize="18sp"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="167dp"
+    android:layout_height="249dp"
+    android:background="@drawable/bg_galleryitem_radio"
+    android:gravity="bottom"
+    android:orientation="vertical" >
+
+    <RelativeLayout 
+      android:id="@+id/gallery_layout"
+      android:layout_width="167dp"
+      android:layout_height="249dp" 
+      android:background="@drawable/bg_galleryitem_radio"
+      android:gravity="bottom">
+
+    <com.hwatong.radio.defineview.FontTextView
+        android:id="@+id/gallery_freq"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:text="@string/initfreq" />
+
+    <ImageView
+        android:id="@+id/gallery_btn_star"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:contentDescription="@null"
+        android:src="@drawable/btn_star_radio" />
+
+    <com.hwatong.radio.defineview.FontTextView
+        android:id="@+id/gallery_text_mhz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/gallery_text_fm"
+        android:layout_alignBottom="@+id/gallery_text_fm"
+        android:layout_alignRight="@+id/gallery_freq"
+        android:layout_marginRight="5dp"
+        android:text="@string/fmsign"
+        android:textColor="@color/white"
+        android:textSize="12sp" />
+
+    <com.hwatong.radio.defineview.FontTextView
+        android:id="@+id/gallery_text_fm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/gallery_freq"
+        android:layout_below="@+id/gallery_freq"
+        android:layout_marginLeft="5dp"
+        android:text="@string/fm"
+        android:textColor="@color/white"
+        android:textSize="12sp" />
+
+</RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <!-- 
+       btn_new_aux_p
+       btn_new_aux_n
+     -->
+     
+     
+    <item android:drawable="@drawable/btn_aux_ss" android:state_selected="true"/>
+    <item android:drawable="@drawable/btn_aux_ss" android:state_pressed="true"/>
+    <item android:drawable="@drawable/btn_aux_ss" android:state_focused="true"/>
+    
+    <item android:drawable="@drawable/btn_aux_nn"/>
+
+</selector>

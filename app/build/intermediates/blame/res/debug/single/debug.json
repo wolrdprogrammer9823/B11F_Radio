@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_last.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\btn_last.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fmam_bg_n.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\fmam_bg_n.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_star_radio_light.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_star_radio_light.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_shadow2.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\bg_shadow2.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_next2.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\btn_next2.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\4c1051537100eb4aa9c2e74869c96816\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_next_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_next_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\4c1051537100eb4aa9c2e74869c96816\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\4c1051537100eb4aa9c2e74869c96816\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_new_ipod_hl.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_new_ipod_hl.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_new_btmusic_normal.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_new_btmusic_normal.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_aux_ss.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_aux_ss.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_next_radio_light2.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_next_radio_light2.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_last_radio_light2.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_last_radio_light2.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_new_ipod_normal.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_new_ipod_normal.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_new_usbmusic_hl.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_new_usbmusic_hl.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\4c1051537100eb4aa9c2e74869c96816\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_eqbtn_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\bg_eqbtn_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mainbar_btn_selector_ipod.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\mainbar_btn_selector_ipod.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_list_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\bg_list_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_new_btmusic_selected.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_new_btmusic_selected.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_listdismiss_selector.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\btn_listdismiss_selector.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_last_radio_light.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_last_radio_light.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_eqbtn2.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\bg_eqbtn2.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_thum_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\thum_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\anim_list_hide.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\anim\\list_hide.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_last2.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\btn_last2.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_next.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\btn_next.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_listsdismiss_radio_light.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_listsdismiss_radio_light.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_curchannel_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\bg_curchannel_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_btn_selector2.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\dialog_btn_selector2.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_last_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_last_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dialog_bg2.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\dialog_bg2.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fmam_btn_selector.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\fmam_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rotate_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\rotate_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_seek_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_seek_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_shadow3.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\bg_shadow3.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_eqbtn.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\bg_eqbtn.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_new_btmusic_hl.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_new_btmusic_hl.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_gallerybg_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\bg_gallerybg_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\4c1051537100eb4aa9c2e74869c96816\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fmam_btn_on.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\fmam_btn_on.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\anim_list_show.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\anim\\list_show.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\color_btn_mainbar_colorselector.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\color\\btn_mainbar_colorselector.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dialog_btn_sel1.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\dialog_btn_sel1.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_search_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_search_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_delete_item_dialog.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\layout\\delete_item_dialog.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_radiomain.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\layout\\radiomain.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_init_radiochann_dialog.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\layout\\init_radiochann_dialog.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_galleryitem.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\layout\\galleryitem.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_star_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_star_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_new_usbmusic_normal.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_new_usbmusic_normal.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_btn_selector.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\dialog_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_search_radio_light.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_search_radio_light.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\4c1051537100eb4aa9c2e74869c96816\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_toast.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_listpopupwindow.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\layout\\listpopupwindow.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_which_b.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\search_which_b.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_new.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\background_new.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_next_radio_light.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_next_radio_light.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\4c1051537100eb4aa9c2e74869c96816\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_seekbarbg_radio_am.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\bg_seekbarbg_radio_am.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\4c1051537100eb4aa9c2e74869c96816\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rotate.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\rotate.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_listsdismiss_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_listsdismiss_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_lists_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_lists_radio.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_new_radio_hl.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_new_radio_hl.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_aux_nn.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_aux_nn.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_seek_radio_light.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\btn_seek_radio_light.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_seekbarbg_radio_fm.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\bg_seekbarbg_radio_fm.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mainbar_btn_selector_usb.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\mainbar_btn_selector_usb.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\4c1051537100eb4aa9c2e74869c96816\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mainbar_btn_selector_aux.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\mainbar_btn_selector_aux.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\layout_being_progress.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\layout\\being_progress.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\color_dialog_btn_textcolor.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\color\\dialog_btn_textcolor.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_galleryitem_radio_light.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\bg_galleryitem_radio_light.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fmam_bg_s.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\fmam_bg_s.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\heng6890\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9bf9fe4ec4d40d733d4201fc06c37334\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dialog_btn_bg1.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\dialog_btn_bg1.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mainbar_btn_selector_music.xml.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable\\mainbar_btn_selector_music.xml"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fmam_btn_off.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\fmam_btn_off.png"
+    },
+    {
+        "merged": "D:\\deveplopthings\\B11F_Radio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_galleryitem_radio.png.flat",
+        "source": "D:\\deveplopthings\\B11F_Radio\\app\\src\\main\\res\\drawable-mdpi\\bg_galleryitem_radio.png"
+    }
+]

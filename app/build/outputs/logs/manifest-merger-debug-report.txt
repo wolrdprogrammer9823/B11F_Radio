@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\81e99ef27ead6b4fc8e9035c92f16d2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\4c1051537100eb4aa9c2e74869c96816\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\7f484ea8b90a5f7d006aaacfbb96f196\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\ae923687a13e229e0d7d3635135ae5d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\0bc4d5427ca8293b7d11f0028ad29522\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\9bf9fe4ec4d40d733d4201fc06c37334\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8b6cf6428e9a781df1c980f6dae43600\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\82c03c8af2423d5f3e9a1471eb7f2c61\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\94b88a253f8f5881f87efa44535c0059\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5c50bcd93efcbb74bf7f66223ec6f98e\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:1:1-44:12
+	package
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:2:5-63
+	android:versionCode
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\81e99ef27ead6b4fc8e9035c92f16d2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\81e99ef27ead6b4fc8e9035c92f16d2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\4c1051537100eb4aa9c2e74869c96816\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\4c1051537100eb4aa9c2e74869c96816\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\7f484ea8b90a5f7d006aaacfbb96f196\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\7f484ea8b90a5f7d006aaacfbb96f196\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\ae923687a13e229e0d7d3635135ae5d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\ae923687a13e229e0d7d3635135ae5d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\0bc4d5427ca8293b7d11f0028ad29522\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\0bc4d5427ca8293b7d11f0028ad29522\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\9bf9fe4ec4d40d733d4201fc06c37334\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\9bf9fe4ec4d40d733d4201fc06c37334\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8b6cf6428e9a781df1c980f6dae43600\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8b6cf6428e9a781df1c980f6dae43600\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\82c03c8af2423d5f3e9a1471eb7f2c61\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\82c03c8af2423d5f3e9a1471eb7f2c61\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\94b88a253f8f5881f87efa44535c0059\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\94b88a253f8f5881f87efa44535c0059\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5c50bcd93efcbb74bf7f66223ec6f98e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\heng6890\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5c50bcd93efcbb74bf7f66223ec6f98e\AndroidManifest.xml:20:5-44
+INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:13:22-75
+uses-permission#android.permission.SYSTEM_OVERLAY_WINFDOW
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:15:22-78
+application
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:17:5-42:19
+	android:label
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:22:9-37
+	android:name
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:21:9-69
+activity#com.hwatong.radio.ui.RadioActivity
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:24:9-41:20
+	android:label
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:26:13-45
+	android:launchMode
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:25:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:32:27-74
+intent-filter#action:name:com.hwatong.media.RADIO_UI+category:name:android.intent.category.DEFAULT
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:35:13-39:29
+action#com.hwatong.media.RADIO_UI
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from D:\deveplopthings\B11F_Radio\app\src\main\AndroidManifest.xml:38:27-73

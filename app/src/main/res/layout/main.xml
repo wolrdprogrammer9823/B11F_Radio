@@ -1,0 +1,170 @@
+<FrameLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_new"
+    tools:context=".RadioActivity">
+    
+    <LinearLayout
+        android:id="@+id/mainlayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        
+        <LinearLayout
+            android:id="@+id/main_btnbar"
+            android:layout_width="98dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+           <RelativeLayout
+                android:id="@+id/btnbar_radio"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/btn_new_btmusic_selected">
+              
+              <ImageView
+                android:id="@+id/iv_radio"
+                android:layout_width="50dp"
+                android:layout_height="56dp"
+                android:layout_centerHorizontal="true" 
+                android:layout_marginTop="21dp"
+                android:contentDescription="@null"
+                android:background="@drawable/btn_new_radio_hl"/>
+                 
+                <TextView
+                    android:id="@+id/tv_radio"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="0dp"
+                    android:layout_below="@id/iv_radio"
+                    android:gravity="center_horizontal"
+                    android:text="@string/btn_bar_radio"
+                    android:textColor="@color/text_light"
+                    android:textSize="16sp"/>
+            </RelativeLayout>
+
+           <RelativeLayout
+                android:id="@+id/btnbar_music"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+                
+               <ImageView
+                  android:id="@+id/iv_btmusic"
+                  android:layout_width="50dp"
+                  android:layout_height="56dp"
+                  android:layout_centerHorizontal="true"
+                  android:layout_marginTop="21dp"
+                  android:contentDescription="@null"
+                  android:background="@drawable/mainbar_btn_selector_music"/>
+               
+                <TextView
+                    android:id="@+id/tv_btmusic"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/iv_btmusic"
+                    android:layout_marginTop="0dp"
+                    android:gravity="center_horizontal"
+                    android:text="@string/btn_bar_btmusic"
+                    android:textColor="@color/btn_mainbar_colorselector"
+                    android:textSize="16sp"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/btnbar_ipod"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+                
+               <ImageView
+                  android:id="@+id/iv_ipod"
+                  android:layout_width="50dp"
+                  android:layout_height="56dp"
+                  android:layout_centerHorizontal="true"
+                  android:layout_marginTop="21dp"
+                  android:contentDescription="@null"
+                  android:background="@drawable/mainbar_btn_selector_ipod"/>
+               
+                <TextView
+                    android:id="@+id/tv_ipod"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                     android:layout_below="@id/iv_ipod"
+                    android:layout_marginTop="0dp"
+                    android:gravity="center_horizontal"
+                    android:text="@string/btn_bar_ipod"
+                    android:textColor="@color/btn_mainbar_colorselector"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/btnbar_aux"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+                
+                <ImageView
+                   android:id="@+id/iv_aux"
+                   android:layout_width="50dp"
+                   android:layout_height="56dp"
+                   android:layout_centerHorizontal="true"
+                   android:layout_marginTop="21dp"
+                   android:contentDescription="@null"
+                   android:background="@drawable/mainbar_btn_selector_aux"/>
+                
+                <TextView
+                    android:id="@+id/tv_aux"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/iv_aux"
+                    android:layout_marginTop="0dp"
+                    android:gravity="center_horizontal"
+                    android:text="@string/btn_bar_aux"
+                    android:textColor="@color/btn_mainbar_colorselector"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+            
+            <RelativeLayout
+                android:id="@+id/btnbar_usb"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+                
+                <ImageView
+                   android:id="@+id/iv_usbmusic"
+                   android:layout_width="50dp"
+                   android:layout_height="56dp"
+                   android:layout_centerHorizontal="true"
+                   android:layout_marginTop="21dp"
+                   android:contentDescription="@null"
+                   android:background="@drawable/mainbar_btn_selector_usb"/>
+                
+                <TextView
+                    android:id="@+id/tv_usbmusic"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/iv_usbmusic"
+                    android:layout_marginTop="0dp"
+                    android:gravity="center_horizontal"
+                    android:text="@string/btn_bar_usb"
+                    android:textColor="@color/btn_mainbar_colorselector"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <include
+            android:id="@+id/main_include"
+            layout="@layout/radiomain"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/bg_shadow3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_shadow3"
+        android:contentDescription="@null"
+        android:visibility="gone"/>
+    
+</FrameLayout>
